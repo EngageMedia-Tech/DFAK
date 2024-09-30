@@ -1,4 +1,4 @@
-# Digital First Aid Kit Localization: Sinhala, Tamil, and Divehi
+# Digital First Aid Kit Localization: Sinhala, Tamil, and Divehi.
 
 Welcome to the localization project for the **Digital First Aid Kit**, an initiative supported by the **Greater Internet Freedom** project, in partnership with **EngageMedia**. This repository contains localized versions of the Digital First Aid Kit in **Sinhala**, **Tamil**, and **Divehi**.
 
