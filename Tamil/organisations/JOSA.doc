@@ -1,0 +1,16 @@
+---
+language: en
+layout: organisation
+name: JORDAN OPEN SOURCE ASSOCIATION (JOSA)
+website: https://www.josa.ngo/
+logo: josa_logo.png
+languages: English, العربية
+services: in_person_training, org_security, web_hosting, digital_support, assessment, secure_comms, device_security, vulnerabilities_malware, browsing, account, harassment, forensic, advocacy, censorship
+beneficiaries: hrds, activists
+hours:
+response_time:
+contact_methods:
+initial_intake: yes
+---
+
+JOSA’s mission is to promote openness in technology and to defend the rights of technology users in Jordan. We believe that information that is non-personal – whether it’s software code, hardware design blueprints, data, network protocols and architecture, content – should be free for everyone to view, use, share, and modify. Our belief also holds that information that is personal should be protected within legal and technological frameworks. Access to the modern Web should likewise remain open.

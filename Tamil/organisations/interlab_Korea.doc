@@ -1,0 +1,19 @@
+---
+language: en
+layout: organisation
+name: Interlab
+website: https://interlab.or.kr/
+logo: Interlab_logo.png
+languages: English, Korean
+services: in_person_training, org_security, digital_support, assessment, device_security, vulnerabilities_malware, forensic
+beneficiaries: journalists, hrds, cso, activists, lgbti, land, women, youth
+hours: Monday to Friday, 9 AM - 5 PM, EU and Korea
+response_time: 1 - 2 days
+contact_methods: web_form, email,
+web_form: https://interlab.or.kr/helpline
+email: contact@interlab.or.kr
+
+initial_intake: yes
+---
+
+Interlab is a non-profit organization based in Seoul with mission to create resilient digital safety net for freedom of citizens, providing free digital security consultations, trainings, incident response support and research of cyber threat toward civic society.

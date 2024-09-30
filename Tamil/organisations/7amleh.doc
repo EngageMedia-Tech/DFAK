@@ -1,0 +1,22 @@
+---
+language: en
+layout: organisation
+name: 7amleh - The Arab Center for the Advancement of Social Media
+website: https://7amleh.org/
+logo: 7amleh.png
+languages: English, العربية
+services: in_person_training, org_security, assessment, secure_comms, device_security, vulnerabilities_malware, browsing, account, harassment
+beneficiaries: journalists, hrds, activists, hros, cso, media, other
+hours: Sunday-Thursday, 09:00-17:00 (GMT +2)
+response_time: "1-2 days"
+contact_methods: email, pgp, phone
+email: help@7amleh.org
+pgp_key: https://keys.openpgp.org/vks/v1/by-fingerprint/69A9DAE73BDCDA268FFD5509F6F5B4C859965785
+pgp_key_fingerprint: 5A99 14C7 C29A F9F6 D7D5 A1AC 10F8 7FD7 6939 D4BC
+phone: +972533302167
+whatsapp: +972533302167
+signal: +972533302167
+initial_intake: yes
+---
+
+7amleh studies and researches issues related to Palestinian digital rights, provides digital rights, digital activism and digital security capacity building opportunities to Palestinian activists and civil society, and manages local and international advocacy campaigns.

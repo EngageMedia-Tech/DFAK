@@ -1,0 +1,20 @@
+---
+language: en
+layout: organisation
+name: SMEX
+website: https://smex.org/
+logo: SMEX_logo.png
+languages: English, العربية
+services: in_person_training, org_security, ddos, digital_support, assessment, secure_comms, device_security, vulnerabilities_malware, browsing, account, harassment, forensic, censorship
+beneficiaries: journalists, hrds, cso, activists, lgbti, women, youth, other
+hours: "Monday to Friday, 9am to 9pm, GMT+3, currently EEST for urgent cases the team does work on Weekends."
+response_time: Less than 1 hour
+contact_methods: email
+email: helpdesk@smex.org
+phone: "+96181633133"
+whatsapp: "+96181633133"
+signal: "+96181633133"
+initial_intake: yes
+---
+
+SMEX is a non-profit that advocates for and advances human rights in digital spaces across West Asia and North Africa.
